@@ -1,0 +1,19 @@
+{
+    "name": "hospital/ot",
+    "description": "this project for hospital ot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Hospital\\Ot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pooja Kumari",
+            "email": "pooja.kumari@apstia.com"
+        }
+    ],
+    "require": {
+      
+    }
+}
